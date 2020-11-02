@@ -1,0 +1,5 @@
+The total number of months in this data set is 86. 
+The total amount of profit from 86 months of trading is 38382578. 
+The total amount of profit from 86 months of trading is 38382578. 
+Greatest increase in profits: 1170593 
+Greatest decrease in profits: -1196225
